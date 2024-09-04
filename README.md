@@ -1,6 +1,6 @@
 # Sans Fight Practice
 
-Welcome to the Sans Fight Practice page! This project is designed to help players practice their skills and strategies for the iconic battle against Sans.
+Welcome to the (NOT OFFICIAL) Sans Fight Practice page! This project is designed to help players practice their skills and strategies for the iconic battle against Sans.
 
 ## Features
 
