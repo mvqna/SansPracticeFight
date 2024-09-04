@@ -9,3 +9,5 @@ Welcome to the Sans Fight Practice page! This project is designed to help player
 - **Progress Tracking:** Keep track of your performance and improvements over time.
 
  ## This version includes the note that all rights belong to jcw87.
+
+ Please, do not credit me for anything that is in this repository, this belongs to jcw87, im just doing experiments so please you should go see his profile
