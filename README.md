@@ -8,4 +8,4 @@ Welcome to the Sans Fight Practice page! This project is designed to help player
 - **Realistic Simulation:** Experience the fight as close as possible to the original, with accurate mechanics and timing.
 - **Progress Tracking:** Keep track of your performance and improvements over time.
 
-This version includes the note that all rights belong to jcw87.
+ ## This version includes the note that all rights belong to jcw87.
