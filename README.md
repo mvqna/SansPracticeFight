@@ -4,7 +4,7 @@ Welcome to the (NOT OFFICIAL) Sans Fight Practice page! This project is designed
 
 ## Features
 
-- **Customizable Fight Settings:** Adjust the difficulty level and various parameters to match your skill level.
+
 - **Realistic Simulation:** Experience the fight as close as possible to the original, with accurate mechanics and timing.
 - **Progress Tracking:** Keep track of your performance and improvements over time.
 
