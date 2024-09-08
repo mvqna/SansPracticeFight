@@ -4,7 +4,6 @@ Welcome to the (NOT OFFICIAL) Sans Fight Practice page! This project is designed
 
 
 Website:
-
 https://mvqna.github.io/SansPracticeFight/
 
 ## Features
